@@ -1,0 +1,13 @@
+Host HN*
+user ngroupp
+Port 22022
+ServerAliveInterval 30
+ServerAliveCountMax 120
+ForwardAgent yes
+
+
+Host *
+User hcavillones
+ServerAliveInterval 30
+ServerAliveCountMax 120
+ForwardAgent yes

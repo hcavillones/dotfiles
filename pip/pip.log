@@ -1,0 +1,28 @@
+------------------------------------------------------------
+/opt/local/bin/pip run on Wed Feb 13 11:09:39 2013
+Downloading/unpacking virtalenvwrapper
+
+  Getting page http://pypi.python.org/simple/virtalenvwrapper
+  Could not fetch URL http://pypi.python.org/simple/virtalenvwrapper: HTTP Error 404: Not Found (virtalenvwrapper does not have any releases)
+  Will skip URL http://pypi.python.org/simple/virtalenvwrapper when looking for download links for virtalenvwrapper
+  Getting page http://pypi.python.org/simple/
+  URLs to search for versions for virtalenvwrapper:
+  * http://pypi.python.org/simple/virtalenvwrapper/
+  Getting page http://pypi.python.org/simple/virtalenvwrapper/
+  Could not fetch URL http://pypi.python.org/simple/virtalenvwrapper/: HTTP Error 404: Not Found (virtalenvwrapper does not have any releases)
+  Will skip URL http://pypi.python.org/simple/virtalenvwrapper/ when looking for download links for virtalenvwrapper
+  Could not find any downloads that satisfy the requirement virtalenvwrapper
+
+No distributions at all found for virtalenvwrapper
+
+Exception information:
+Traceback (most recent call last):
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pip/basecommand.py", line 107, in main
+    status = self.run(options, args)
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pip/commands/install.py", line 256, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pip/req.py", line 1011, in prepare_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pip/index.py", line 157, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for virtalenvwrapper

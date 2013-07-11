@@ -1,0 +1,5 @@
+Host *
+User hcavillones
+ServerAliveInterval 30
+ServerAliveCountMax 120
+ForwardAgent yes
