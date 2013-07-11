@@ -34,18 +34,18 @@ LS_COLORS='di=01;33'; export LS_COLORS
 # Setup Amazon EC2 Command-Line Tools
 
 # EC2 AMI TOOLS 
-export EC2_HOME=~/.ec2
-export EC2_PRIVATE_KEY=`ls $EC2_HOME/pk-PK5IF45XNMPNFI77SXJ25GZB2DBCDF53.pem`
-export EC2_CERT=`ls $EC2_HOME/cert-PK5IF45XNMPNFI77SXJ25GZB2DBCDF53.pem`
+#export EC2_HOME=~/.ec2
+#export EC2_PRIVATE_KEY=`ls $EC2_HOME/pk-PK5IF45XNMPNFI77SXJ25GZB2DBCDF53.pem`
+#export EC2_CERT=`ls $EC2_HOME/cert-PK5IF45XNMPNFI77SXJ25GZB2DBCDF53.pem`
 export JAVA_HOME=$(/usr/libexec/java_home)
 
 # EC2 ACCESS KEYPAIRS
-export EC2_KEYPAIR_US_EAST_1=`ls $EC2_HOME/pk-socialflow-east.pem`
-export EC2_KEYPAIR_US_WEST_1=`ls $EC2_HOME/pk-socialflow-west.pem`
+#export EC2_KEYPAIR_US_EAST_1=`ls $EC2_HOME/pk-socialflow-east.pem`
+#export EC2_KEYPAIR_US_WEST_1=`ls $EC2_HOME/pk-socialflow-west.pem`
 
 # EC2 API KEYS
-export AWS_ACCESS_KEY=AKIAJFTYU3S4UNX5M2JQ
-export AWS_SECRET_ACCESS_KEY=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
+#export AWS_ACCESS_KEY=AKIAJFTYU3S4UNX5M2JQ
+#export AWS_SECRET_ACCESS_KEY=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
 
 complete -W "$(echo $(grep '^ssh ' .bash_history | sort -u | sed 's/^ssh //'))" ssh
 
