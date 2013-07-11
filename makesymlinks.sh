@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="bashprofile bashrc boto chef config cpan cups dropbox dvdcss ec2 fontconfig gem gitconfig gnugp gpg-agent-info gvimrc irssi macports osx perlbrew pip pythonbrew rnd s3cfg siegerc ssh viminfo virtualenv"    # list of files/folders to symlink in homedir
+files="bashrc vimrc"    # list of files/folders to symlink in homedir
 
 ##########
 
