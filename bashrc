@@ -29,7 +29,7 @@ PS4='$0.$LINENO+ '
 
 
 #alias ls='/usr/local/Cellar/coreutils/8.14/bin/gls --color=auto'
-LS_COLORS='di=01;33'; export LS_COLORS
+#LS_COLORS='di=01;33'; export LS_COLORS
 
 # Setup Amazon EC2 Command-Line Tools
 
@@ -51,29 +51,29 @@ complete -W "$(echo $(grep '^ssh ' .bash_history | sort -u | sed 's/^ssh //'))" 
 
 SSH_ENV="$HOME/.ssh/environment"
 
-function start_agent {
-     	echo "Initialising new SSH agent..."
-    	 /usr/bin/ssh-agent | sed 's/^echo/#echo/' > "${SSH_ENV}"
-	echo succeeded
-	chmod 600 "${SSH_ENV}"
-	. "${SSH_ENV}" > /dev/null
-	/usr/bin/ssh-add;
-}
+#function start_agent {
+#     	echo "Initialising new SSH agent..."
+#    	 /usr/bin/ssh-agent | sed 's/^echo/#echo/' > "${SSH_ENV}"
+#	echo succeeded
+#	chmod 600 "${SSH_ENV}"
+#	. "${SSH_ENV}" > /dev/null
+#	/usr/bin/ssh-add;
+#}
 # Source SSH settings, if applicable
-if [ -f "${SSH_ENV}" ]; then
-	. "${SSH_ENV}" > /dev/null
-	#ps ${SSH_AGENT_PID} doesn't work under cywgin
-	ps -ef | grep ${SSH_AGENT_PID} | grep ssh-agent$ > /dev/null || {
+#if [ -f "${SSH_ENV}" ]; then
+#	. "${SSH_ENV}" > /dev/null
+#	#ps ${SSH_AGENT_PID} doesn't work under cywgin
+#	ps -ef | grep ${SSH_AGENT_PID} | grep ssh-agent$ > /dev/null || {
+#
+#	start_agent;
+#	}
+#else
+#	start_agent;
+#fi 
 
-	start_agent;
-	}
-else
-	start_agent;
-fi 
+export PATH=$PATH:/opt/local/bin:/Developer/Tools:/Developer/usr/bin:/usr/local/git/bin:/Developer/usr/sbin:~/.ec2/bin:~/bin
 
-export PATH=$PATH:/opt/local/bin:/Developer/Tools:/Developer/usr/bin:/usr/local/git/bin:/Developer/usr/sbin:~/.ec2/bin:~/bin:~/bin/Twitter-Streamer/scripts
-function commafy() {
-    perl -W -pne 'chomp; s/\s+/,/g'
-    }
+#function commafy() {
+#    perl -W -pne 'chomp; s/\s+/,/g'
+#    }
 
-export PATH=$PATH:/Applications/acquia-drupal/drush
