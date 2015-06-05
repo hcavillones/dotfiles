@@ -1,4 +1,4 @@
-# Henry’s dotfiles
+# My dotfiles
 
 ## Installation
 
