@@ -168,14 +168,9 @@
 	pushInsteadOf = "git://gist.github.com/"
 
 [url "git://gist.github.com/"]
-<<<<<<< HEAD
 	insteadOf = "gist:"
 [push]
 	default = matching
 [user]
 	email = henry.cavillones@gmail.com
 	name = Henry Cavillones
-=======
-
-	insteadOf = "gist:"
->>>>>>> mathiasbynens/master
