@@ -1,4 +1,4 @@
-# Henry’s dotfiles
+# My dotfiles
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
 
