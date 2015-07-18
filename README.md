@@ -87,12 +87,7 @@ Suggestions/improvements
 ## Author
 
 | [![twitter/hencav](http://www.gravatar.com/avatar/e07c504d7ab210248d93cdf93951a5df.png?s=70)](http://twitter.com/hencav "Follow @hencav on Twitter") |
-|---|
-<<<<<<< HEAD
 | [Henry Cavillones](http://henrycavillones.com/) |
-=======
-| [Mathias Bynens](https://mathiasbynens.be/) |
->>>>>>> mathiasbynens/master
 
 ## Thanks to…
 
