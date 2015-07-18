@@ -45,10 +45,7 @@ fi;
 complete -W "NSGlobalDomain" defaults;
 
 # Add `killall` tab completion for common apps
-<<<<<<< HEAD
 complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes SystemUIServer Terminal Twitter" killall;
-=======
-complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes SystemUIServer Terminal Twitter" killall
 
 # Autocomplete SSH from bash_history
 complete -W "$(echo `cat .bash_history | egrep '^ssh ' | sort | uniq | sed 's/^ssh //'`;)" ssh
@@ -58,7 +55,7 @@ complete -W "$(echo `cat .bash_history | egrep '^ssh ' | sort | uniq | sed 's/^s
 
 # Set up ssh-agent
 SSH_ENV="$HOME/.ssh/environment"
- 
+
 function start_agent {
     echo "Initializing new SSH agent..."
     /usr/bin/ssh-agent | sed 's/^echo/#echo/' > "${SSH_ENV}"
@@ -67,7 +64,7 @@ function start_agent {
     . "${SSH_ENV}" > /dev/null
     /usr/bin/ssh-add;
 }
- 
+
 # Source SSH settings, if applicable
 if [ -f "${SSH_ENV}" ]; then
     . "${SSH_ENV}" > /dev/null
