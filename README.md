@@ -1,6 +1,6 @@
 # My dotfiles
 
-![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
+![Screenshot of shell prompt](https://i.imgur.com/EkEtphC.png)
 
 ## Installation
 
@@ -59,9 +59,6 @@ My `~/.extra` looks something like this:
 GIT_AUTHOR_NAME="Henry Cavillones"
 GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
 git config --global user.name "$GIT_AUTHOR_NAME"
-GIT_AUTHOR_EMAIL="henry.cavillones@gmail.com"
-GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
-git config --global user.email "$GIT_AUTHOR_EMAIL"
 ```
 
 You could also use `~/.extra` to override settings, functions and aliases from my dotfiles repository. It’s probably better to [fork this repository](https://github.com/mathiasbynens/dotfiles/fork) instead, though.
@@ -85,12 +82,12 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 ## Feedback
 
 Suggestions/improvements
-[welcome](https://github.com/mathiasbynens/dotfiles/issues)!
+[welcome](https://github.com/hcavillones/dotfiles/issues)!
 
 ## Author
 
-| [![twitter/hencav](https://www.gravatar.com/avatar/e07c504d7ab210248d93cdf93951a5df.png?s=70)](https://twitter.com/hencav "Follow @hencav on Twitter") |
-| [Henry Cavillones](https://henry.cavillones.com/) |
+ [![twitter/hencav](https://www.gravatar.com/avatar/e07c504d7ab210248d93cdf93951a5df.png?s=70)](https://twitter.com/hencav "Follow @hencav on Twitter") |
+ [Henry Cavillones](https://henry.cavillones.com/) |
 
 ## Thanks to…
 
