@@ -9,7 +9,7 @@
 You can clone the repository wherever you want. (I like to keep it in `~/Projects/dotfiles`, with `~/dotfiles` as a symlink.) The bootstrapper script will pull in the latest version and copy the files to your home folder.
 
 ```bash
-git clone https://github.com/hcavillones/dotfiles.git && cd dotfiles && source bootstrap.sh
+git clone https://github.rackspace.com/henr8833/dotfiles.git && cd dotfiles && source bootstrap.sh
 ```
 
 To update, `cd` into your local `dotfiles` repository and then:
@@ -30,7 +30,7 @@ To install these dotfiles without Git:
 
 ```bash
 
-cd; curl -#L https://github.com/hcavillones/dotfiles/tarball/master | tar -xzv --strip-components 1 --exclude={README.md,bootstrap.sh,LICENSE-MIT.txt}
+cd; curl -#L https://github.rackspace.com/henr8833/dotfiles/tarball/master | tar -xzv --strip-components 1 --exclude={README.md,bootstrap.sh,LICENSE-MIT.txt}
 
 ```
 
@@ -81,12 +81,12 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 ## Feedback
 
 Suggestions/improvements
-[welcome](https://github.com/hcavillones/dotfiles/issues)!
+[welcome](https://github.rackspace.com/henr8833/dotfiles/issues)!
 
 ## Author
 
- [![twitter/hencav](https://www.gravatar.com/avatar/e07c504d7ab210248d93cdf93951a5df.png?s=70)](https://twitter.com/hencav "Follow @hencav on Twitter") |
- [Henry Cavillones](https://henry.cavillones.com/) |
+ [![twitter/hencav](https://www.gravatar.com/avatar/e07c504d7ab210248d93cdf93951a5df.png?s=70)](https://twitter.com/hencav "Follow @hencav on Twitter") 
+ |[Henry Cavillones](https://henry.cavillones.com/) |
 
 ## Thanks to…
 
