@@ -85,8 +85,8 @@ Suggestions/improvements
 
 ## Author
 
- [![twitter/hencav](https://www.gravatar.com/avatar/e07c504d7ab210248d93cdf93951a5df.png?s=70)](https://twitter.com/hencav "Follow @hencav on Twitter") |
- [Henry Cavillones](https://henry.cavillones.com/) |
+ [![twitter/hencav](https://www.gravatar.com/avatar/e07c504d7ab210248d93cdf93951a5df.png?s=70)](https://twitter.com/hencav "Follow @hencav on Twitter") 
+ |[Henry Cavillones](https://henry.cavillones.com/) |
 
 ## Thanks to…
 
