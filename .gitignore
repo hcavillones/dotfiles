@@ -15,3 +15,9 @@ Thumbs.db
 
 # Git token file
 .git_token
+
+# VIM swapfiles
+.vim/swaps
+
+# BASH HISTORY
+.bash_history
