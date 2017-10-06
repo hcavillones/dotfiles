@@ -20,14 +20,14 @@
 $
 
 # Command Line History (newest to oldest):
+:q
+|2,0,1507258131,,"q"
 :x
-|2,0,1507233585,,"x"
+|2,0,1507258012,,"x"
 :w
 |2,0,1507179001,,"w"
 :w!
 |2,0,1507173021,,"w!"
-:q
-|2,0,1507171456,,"q"
 :x!
 |2,0,1507171322,,"x!"
 :run parsey.py
@@ -297,230 +297,257 @@ $
 # global variables:
 
 # File marks:
-'0  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
-|4,48,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
-'1  1  6  ~/repos/myplaybooks/.gitignore
-|4,49,1,6,1507233558,"~/repos/myplaybooks/.gitignore"
-'2  1  21  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
-|4,50,1,21,1507233393,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
-'3  21  10  ~/repos/checklogs/queries.py
-|4,51,21,10,1507210111,"~/repos/checklogs/queries.py"
-'4  20  1  ~/repos/checklogs/queries.py
-|4,52,20,1,1507177256,"~/repos/checklogs/queries.py"
-'5  20  1  ~/repos/checklogs/queries.py
-|4,53,20,1,1507177256,"~/repos/checklogs/queries.py"
-'6  10  36  ~/repos/checklogs/queries.py
-|4,54,10,36,1507173476,"~/repos/checklogs/queries.py"
-'7  9  36  ~/repos/checklogs/queries.py
-|4,55,9,36,1507173476,"~/repos/checklogs/queries.py"
-'8  10  36  ~/repos/checklogs/queries.py
-|4,56,10,36,1507173476,"~/repos/checklogs/queries.py"
-'9  9  36  ~/repos/checklogs/queries.py
-|4,57,9,36,1507173476,"~/repos/checklogs/queries.py"
+'0  155  0  ~/repos/dotfiles/.aliases
+|4,48,155,0,1507258131,"~/repos/dotfiles/.aliases"
+'1  1  46  ~/repos/dotfiles/.git/COMMIT_EDITMSG
+|4,49,1,46,1507258012,"~/repos/dotfiles/.git/COMMIT_EDITMSG"
+'2  67  0  ~/repos/dotfiles/.viminfo
+|4,50,67,0,1507257972,"~/repos/dotfiles/.viminfo"
+'3  23  12  ~/repos/dotfiles/.gitignore
+|4,51,23,12,1507257937,"~/repos/dotfiles/.gitignore"
+'4  57  0  ~/repos/dotfiles/.bash_profile
+|4,52,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+'5  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,53,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+'6  1  6  ~/repos/myplaybooks/.gitignore
+|4,54,1,6,1507233558,"~/repos/myplaybooks/.gitignore"
+'7  1  21  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,55,1,21,1507233393,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+'8  21  10  ~/repos/checklogs/queries.py
+|4,56,21,10,1507210111,"~/repos/checklogs/queries.py"
+'9  20  1  ~/repos/checklogs/queries.py
+|4,57,20,1,1507177256,"~/repos/checklogs/queries.py"
 
 # Jumplist (newest first):
+-'  155  0  ~/repos/dotfiles/.aliases
+|4,39,155,0,1507258131,"~/repos/dotfiles/.aliases"
+-'  22  0  ~/repos/dotfiles/.aliases
+|4,39,22,0,1507258114,"~/repos/dotfiles/.aliases"
+-'  1  0  ~/repos/dotfiles/.aliases
+|4,39,1,0,1507258111,"~/repos/dotfiles/.aliases"
+-'  1  46  ~/repos/dotfiles/.git/COMMIT_EDITMSG
+|4,39,1,46,1507258012,"~/repos/dotfiles/.git/COMMIT_EDITMSG"
+-'  1  46  ~/repos/dotfiles/.git/COMMIT_EDITMSG
+|4,39,1,46,1507258012,"~/repos/dotfiles/.git/COMMIT_EDITMSG"
+-'  67  0  ~/repos/dotfiles/.viminfo
+|4,39,67,0,1507257972,"~/repos/dotfiles/.viminfo"
+-'  67  0  ~/repos/dotfiles/.viminfo
+|4,39,67,0,1507257972,"~/repos/dotfiles/.viminfo"
+-'  67  0  ~/repos/dotfiles/.viminfo
+|4,39,67,0,1507257972,"~/repos/dotfiles/.viminfo"
+-'  67  0  ~/repos/dotfiles/.viminfo
+|4,39,67,0,1507257972,"~/repos/dotfiles/.viminfo"
+-'  1  0  ~/repos/dotfiles/.viminfo
+|4,39,1,0,1507257963,"~/repos/dotfiles/.viminfo"
+-'  1  0  ~/repos/dotfiles/.viminfo
+|4,39,1,0,1507257963,"~/repos/dotfiles/.viminfo"
+-'  1  0  ~/repos/dotfiles/.viminfo
+|4,39,1,0,1507257963,"~/repos/dotfiles/.viminfo"
+-'  1  0  ~/repos/dotfiles/.viminfo
+|4,39,1,0,1507257963,"~/repos/dotfiles/.viminfo"
+-'  23  12  ~/repos/dotfiles/.gitignore
+|4,39,23,12,1507257937,"~/repos/dotfiles/.gitignore"
+-'  23  12  ~/repos/dotfiles/.gitignore
+|4,39,23,12,1507257937,"~/repos/dotfiles/.gitignore"
+-'  23  12  ~/repos/dotfiles/.gitignore
+|4,39,23,12,1507257937,"~/repos/dotfiles/.gitignore"
+-'  23  12  ~/repos/dotfiles/.gitignore
+|4,39,23,12,1507257937,"~/repos/dotfiles/.gitignore"
+-'  23  12  ~/repos/dotfiles/.gitignore
+|4,39,23,12,1507257937,"~/repos/dotfiles/.gitignore"
+-'  23  12  ~/repos/dotfiles/.gitignore
+|4,39,23,12,1507257937,"~/repos/dotfiles/.gitignore"
+-'  23  12  ~/repos/dotfiles/.gitignore
+|4,39,23,12,1507257937,"~/repos/dotfiles/.gitignore"
+-'  23  12  ~/repos/dotfiles/.gitignore
+|4,39,23,12,1507257937,"~/repos/dotfiles/.gitignore"
+-'  1  0  ~/repos/dotfiles/.gitignore
+|4,39,1,0,1507257865,"~/repos/dotfiles/.gitignore"
+-'  1  0  ~/repos/dotfiles/.gitignore
+|4,39,1,0,1507257865,"~/repos/dotfiles/.gitignore"
+-'  1  0  ~/repos/dotfiles/.gitignore
+|4,39,1,0,1507257865,"~/repos/dotfiles/.gitignore"
+-'  1  0  ~/repos/dotfiles/.gitignore
+|4,39,1,0,1507257865,"~/repos/dotfiles/.gitignore"
+-'  1  0  ~/repos/dotfiles/.gitignore
+|4,39,1,0,1507257865,"~/repos/dotfiles/.gitignore"
+-'  1  0  ~/repos/dotfiles/.gitignore
+|4,39,1,0,1507257865,"~/repos/dotfiles/.gitignore"
+-'  1  0  ~/repos/dotfiles/.gitignore
+|4,39,1,0,1507257865,"~/repos/dotfiles/.gitignore"
+-'  1  0  ~/repos/dotfiles/.gitignore
+|4,39,1,0,1507257865,"~/repos/dotfiles/.gitignore"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  57  0  ~/repos/dotfiles/.bash_profile
+|4,39,57,0,1507257836,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  0  ~/repos/dotfiles/.bash_profile
+|4,39,1,0,1507257825,"~/repos/dotfiles/.bash_profile"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
+-'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
+|4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
 -'  1  10  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
 |4,39,1,10,1507233585,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
 -'  1  6  ~/repos/myplaybooks/.gitignore
 |4,39,1,6,1507233558,"~/repos/myplaybooks/.gitignore"
 -'  1  6  ~/repos/myplaybooks/.gitignore
 |4,39,1,6,1507233558,"~/repos/myplaybooks/.gitignore"
--'  1  21  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
-|4,39,1,21,1507233393,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
--'  1  21  ~/repos/myplaybooks/.git/COMMIT_EDITMSG
-|4,39,1,21,1507233393,"~/repos/myplaybooks/.git/COMMIT_EDITMSG"
--'  21  10  ~/repos/checklogs/queries.py
-|4,39,21,10,1507210111,"~/repos/checklogs/queries.py"
--'  21  10  ~/repos/checklogs/queries.py
-|4,39,21,10,1507210111,"~/repos/checklogs/queries.py"
--'  21  10  ~/repos/checklogs/queries.py
-|4,39,21,10,1507210111,"~/repos/checklogs/queries.py"
--'  21  10  ~/repos/checklogs/queries.py
-|4,39,21,10,1507210111,"~/repos/checklogs/queries.py"
--'  21  10  ~/repos/checklogs/queries.py
-|4,39,21,10,1507210111,"~/repos/checklogs/queries.py"
--'  21  10  ~/repos/checklogs/queries.py
-|4,39,21,10,1507210111,"~/repos/checklogs/queries.py"
--'  21  10  ~/repos/checklogs/queries.py
-|4,39,21,10,1507210111,"~/repos/checklogs/queries.py"
--'  21  10  ~/repos/checklogs/queries.py
-|4,39,21,10,1507210111,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507177261,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507177261,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507177261,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507177261,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507177261,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507177261,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507177261,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507177261,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  20  1  ~/repos/checklogs/queries.py
-|4,39,20,1,1507177256,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  11  3  ~/repos/checklogs/queries.py
-|4,39,11,3,1507173696,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173490,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173490,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173490,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173490,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173490,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173490,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173490,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173490,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  10  36  ~/repos/checklogs/queries.py
-|4,39,10,36,1507173476,"~/repos/checklogs/queries.py"
--'  9  36  ~/repos/checklogs/queries.py
-|4,39,9,36,1507173476,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173046,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173046,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173046,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173046,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173046,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173046,"~/repos/checklogs/queries.py"
--'  1  0  ~/repos/checklogs/queries.py
-|4,39,1,0,1507173046,"~/repos/checklogs/queries.py"
+-'  1  6  ~/repos/myplaybooks/.gitignore
+|4,39,1,6,1507233558,"~/repos/myplaybooks/.gitignore"
+-'  1  6  ~/repos/myplaybooks/.gitignore
+|4,39,1,6,1507233558,"~/repos/myplaybooks/.gitignore"
+-'  1  6  ~/repos/myplaybooks/.gitignore
+|4,39,1,6,1507233558,"~/repos/myplaybooks/.gitignore"
+-'  1  6  ~/repos/myplaybooks/.gitignore
+|4,39,1,6,1507233558,"~/repos/myplaybooks/.gitignore"
+-'  1  6  ~/repos/myplaybooks/.gitignore
+|4,39,1,6,1507233558,"~/repos/myplaybooks/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/repos/dotfiles/.aliases
+	*	1507258125	0
+	"	155	0
+
+> ~/repos/dotfiles/.git/COMMIT_EDITMSG
+	*	1507258010	0
+	"	1	46
+	^	1	47
+	.	1	47
+	+	1	47
+
+> ~/repos/dotfiles/.viminfo
+	*	1507257969	0
+	"	67	0
+
+> ~/repos/dotfiles/.gitignore
+	*	1507257936	0
+	"	23	12
+	^	23	13
+	.	23	12
+	+	19	15
+	+	23	12
+
+> ~/repos/dotfiles/.bash_profile
+	*	1507257833	0
+	"	57	0
 
 > ~/repos/myplaybooks/.git/COMMIT_EDITMSG
 	*	1507233584	0
@@ -966,10 +993,6 @@ $
 	*	1506834377	0
 	"	1	0
 
-> ~/repos/dotfiles/.aliases
-	*	1506834253	0
-	"	139	0
-
 > /private/etc/ssh/sshd_config
 	*	1506834217	0
 	"	112	0
@@ -1099,13 +1122,6 @@ $
 > ~/repos/dotfiles/.gitconfig
 	*	1506833603	0
 	"	1	0
-
-> ~/repos/dotfiles/.git/COMMIT_EDITMSG
-	*	1506833557	0
-	"	1	10
-	^	1	11
-	.	1	10
-	+	1	10
 
 > ~/Environments/my_website/run.py
 	*	1506832586	0
@@ -1859,25 +1875,3 @@ $
 	+	87	0
 	+	82	51
 	+	83	11
-
-> ~/auto-login-tool.conf
-	"	32	0
-	^	32	0
-	.	32	0
-	+	9	54
-	+	29	0
-	+	32	0
-
-> ~/auto-login-tool.
-	"	1	0
-
-> ~/learn-inspec/hello-world/controls/hello_spec.rb
-	"	21	2
-	^	21	3
-	.	19	39
-	+	2	69
-	+	2	78
-	+	6	0
-	+	8	19
-	+	13	5
-	+	19	39

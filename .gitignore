@@ -19,5 +19,9 @@ Thumbs.db
 # VIM swapfiles
 .vim/swaps
 
-# BASH HISTORY
-.bash_history
+# SHELHISTORY
+*history
+
+# zsh com and backups
+.zcomp*
+.*backup
