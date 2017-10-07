@@ -18,7 +18,7 @@ for file in ~/.{path,bash_prompt,exports,aliases,functions,extra}; do
 done;
 #
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/henr8833/.oh-my-zsh
+export ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -97,9 +97,9 @@ export LANG=en_US.UTF-8
 alias zshconfig="vi ~/.zshrc"
 alias ohmyzsh="vi ~/.oh-my-zsh"
 alias python2=/usr/bin/python
-alias python=/usr/local/bin/python3
-alias vim=/usr/local/bin/vim
-alias vi=/usr/local/bin/vim
+alias python=`which python3`
+alias vim=`which vim`
+alias vi=`which vim`
 
 # Check for runngin ssh-agent, if none, fire one up
 #ssh-add -l &>/dev/null
