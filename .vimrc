@@ -136,3 +136,9 @@ if has("autocmd")
 	" Treat .md files as Markdown
 	autocmd BufNewFile,BufRead *.md setlocal filetype=markdown
 endif
+
+if has("autocmd")
+  "" PUPPET
+  autocmd BufNewFile,BufRead *.pp setfiletype puppet
+  autocmd BufNewFile,BufRead *.pp set shiftwidth=2 softtabstop=2 filetype=puppet
+endif
